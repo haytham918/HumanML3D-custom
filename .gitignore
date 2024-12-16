@@ -1,0 +1,5 @@
+*_data
+body_models
+joints
+*__pycache__
+output_slurm
